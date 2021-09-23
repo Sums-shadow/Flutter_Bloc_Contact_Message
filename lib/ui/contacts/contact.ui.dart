@@ -1,4 +1,7 @@
+import 'package:contacta/bloc/contact.action.dart';
 import 'package:contacta/bloc/contact.bloc.dart';
+import 'package:contacta/bloc/contact.state.dart';
+import 'package:contacta/enums/enums.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
